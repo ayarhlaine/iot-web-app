@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/iot-web-app/static/css/main.6c8696d1.chunk.css",
+    "main.js": "/iot-web-app/static/js/main.49204c1d.chunk.js",
+    "main.js.map": "/iot-web-app/static/js/main.49204c1d.chunk.js.map",
+    "runtime-main.js": "/iot-web-app/static/js/runtime-main.351051fa.js",
+    "runtime-main.js.map": "/iot-web-app/static/js/runtime-main.351051fa.js.map",
+    "static/js/2.26cd9cb8.chunk.js": "/iot-web-app/static/js/2.26cd9cb8.chunk.js",
+    "static/js/2.26cd9cb8.chunk.js.map": "/iot-web-app/static/js/2.26cd9cb8.chunk.js.map",
+    "index.html": "/iot-web-app/index.html",
+    "precache-manifest.2d0db72814856166a0146f36c32d5547.js": "/iot-web-app/precache-manifest.2d0db72814856166a0146f36c32d5547.js",
+    "service-worker.js": "/iot-web-app/service-worker.js",
+    "static/css/main.6c8696d1.chunk.css.map": "/iot-web-app/static/css/main.6c8696d1.chunk.css.map",
+    "static/js/2.26cd9cb8.chunk.js.LICENSE.txt": "/iot-web-app/static/js/2.26cd9cb8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.351051fa.js",
+    "static/js/2.26cd9cb8.chunk.js",
+    "static/css/main.6c8696d1.chunk.css",
+    "static/js/main.49204c1d.chunk.js"
+  ]
+}
